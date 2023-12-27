@@ -1,0 +1,1 @@
+# Multi_langugae_screeshot_extractor_Model
